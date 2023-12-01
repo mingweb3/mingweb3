@@ -1,4 +1,5 @@
-👋 Hi, I’m @mingweb3
+👋 Hi, I’m Ming Nguyen @mingweb3
+
 Email: mingweb3@gmail.com
 
 **My abilities**: Frontend / Backend / Design UI + Diagram (Figma) / React Native
