@@ -13,8 +13,8 @@ I’ve been working in Web / Mobile app development for over 12 years.
 I understand the whole process of a product life cycle. I almost work in Fintech and blockchain projects. 
 I have experience making wallet extensions on chrome and NFT market, Defi dapp … Much more experience in E-commerce, Affiliate, Loyalty, E-learning, Parking Car, Properties marketplace, HR management...
 
-Languages and Tools:
-nextjs typescript css3 html5 aws azure bootstrap  elasticsearch express figma git  javascript jest laravel mysql  nodejs php postgresql postman react reactnative sass 
+Skills:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 **GIT REPO for reviewing my coding skill:**
 
