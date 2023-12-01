@@ -4,7 +4,7 @@ Email: mingweb3@gmail.com
 
 **My abilities**: Frontend / Backend / Design UI + Diagram (Figma) / React Native
 
-I am a highly skilled and experienced frontend developer with over 6 years of expertise in **ReactJS** and **NextJS**.
+I am a highly skilled and experienced frontend developer with over 6 years of expertise in **ReactJS** and **NextJS** (SSR,SSG,ICR).
 My proficiency also extends to **UI/UX design** for both web and mobile applications. 
 I possess the ability to develop mobile apps using **React Native**.
 
